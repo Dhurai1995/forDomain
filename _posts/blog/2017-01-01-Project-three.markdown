@@ -5,7 +5,7 @@ categories: blog
 ---
 
 <div class="user-projects">
-    <img alt="mountains" src="{{ "https://dhurai1995.github.io/forDomain/assets/img/lapTime.png" }}" /> 
+    <img alt="mountains" src="{{ "https://dhurai1995.github.io/forDomain/assets/img/timberGame.PNG" }}" /> 
 
     <p style="margin-bottom:1cm;"></p>
 
