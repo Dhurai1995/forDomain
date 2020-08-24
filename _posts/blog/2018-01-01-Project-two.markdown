@@ -5,7 +5,7 @@ categories: blog
 ---
 
 <div class="user-projects">
-    <img alt="mountains" src="{{ "https://dhurai1995.github.io/forDomain/assets/img/happinessPredict.png" }}" /> 
+    <img alt="mountains" src="{{ "https://dhurai1995.github.io/forDomain/assets/img/happinessPredict.PNG" }}" /> 
 
     <p style="margin-bottom:1cm;"></p>
 
