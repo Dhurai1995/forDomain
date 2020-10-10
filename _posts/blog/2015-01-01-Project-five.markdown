@@ -5,7 +5,7 @@ categories: blog
 ---
 
 <div class="user-projects">
-    <img alt="steering system" src="{{ "/home/assets/img/steering.jpg" }}" /> 
+    <img alt="steering system" src="{{ "/assets/img/steering.jpg" }}" /> 
 
     <p style="margin-bottom:1cm;"></p>
 
