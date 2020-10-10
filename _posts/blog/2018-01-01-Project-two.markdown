@@ -5,7 +5,7 @@ categories: blog
 ---
 
 <div class="user-projects">
-    <img alt="Happiness prediction" src="{{ "/home/assets/img/happinessPredict.png" }}" /> 
+    <img alt="Happiness prediction" src="{{ "/assets/img/happinessPredict.png" }}" /> 
 
     <p style="margin-bottom:1cm;"></p>
 
