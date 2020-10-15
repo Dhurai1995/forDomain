@@ -10,7 +10,7 @@ categories: blog
     <p style="margin-bottom:1cm;"></p>
 
   <div class="contents">
-    <p> Recently, due to the pandemic, I was getting more into vintage games and thought it would be to cool to just develop one. So I developed a lite version of the game called timber in C++.</p>
+    <p> game called timber.</p>
      <ul>
       <li> Visual studio, C++, SFML Library</li>
      </ul>
